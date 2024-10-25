@@ -1,23 +1,20 @@
-# Meu Portfólio e Website Pessoal
+# Enzo Bustos - Portfólio e Website Pessoal
 
-Bem-vindo ao repositório do meu portfólio e website pessoal! Este projeto foi criado para reunir meus projetos, habilidades e experiências em um único lugar, servindo tanto como um portfólio profissional quanto como um espaço para compartilhar conhecimentos e atualizações sobre minha jornada.
+Bem-vindo ao repositório do meu portfólio e website pessoal! Este espaço foi criado para apresentar minha trajetória, projetos e pesquisas, reunindo em um único lugar minhas habilidades, experiências profissionais e publicações acadêmicas. Este portfólio não é apenas uma vitrine, mas também um ponto de contato para colaborações e trocas de conhecimentos.
 
 ## Funcionalidades
 
-- **Portfólio**: Galeria de projetos com descrições detalhadas, tecnologias utilizadas e links para o código-fonte.
-- **Blog**: Seção de artigos onde compartilho insights, tutoriais e experiências da minha carreira.
-- **Sobre Mim**: Um pouco sobre minha trajetória, interesses e habilidades.
-- **Contato**: Formulário de contato e links para minhas redes sociais.
+- **Portfólio de Projetos**: Uma galeria que exibe projetos de engenharia de software e pesquisa em Inteligência Artificial e Machine Learning, com descrições detalhadas, tecnologias utilizadas e links para o código-fonte.
+- **Sobre Mim**: Seção que explora minha formação acadêmica e profissional, interesses em IA, ciência de dados e desenvolvimento de software, além de minhas experiências como freelancer e professor de Python.
+- **Publicações Acadêmicas**: Lista de artigos publicados nas áreas de Processamento de Linguagem Natural e Inteligência Artificial, refletindo minha dedicação à pesquisa científica.
+- **Contato**: Formulário para contato direto e links para minhas redes sociais, incluindo LinkedIn e GitHub.
 
-## Tecnologias Utilizadas
+## Tecnologias e Ferramentas
 
-- **Frontend**: HTML, CSS, JavaScript (ou framework de sua preferência, como React, Vue, etc.)
-- **Backend**: [Descreva o backend se houver, como Node.js, Django, etc.]
-- **Hospedagem**: [Especifique o serviço de hospedagem, como GitHub Pages, Vercel, Netlify, etc.]
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões e melhorias.
+Este website foi desenvolvido utilizando tecnologias modernas e intuitivas para proporcionar uma experiência dinâmica e interativa. Abaixo, algumas das principais ferramentas que utilizo em meus projetos:
+- **Linguagens**: Python (Avançado), HTML, CSS, JavaScript, C/C++
+- **Frameworks**: Bibliotecas de IA e ML para Processamento de Linguagem Natural
+- **Outros**: Ciência de Dados, Machine Learning e técnicas de análise de dados
 
 ## Licença
 
@@ -25,4 +22,4 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Fique à vontade para explorar, contribuir e me enviar feedback! Obrigado pela visita!
+Sinta-se à vontade para explorar meu portfólio, contribuir com sugestões ou feedbacks, e entrar em contato para possíveis colaborações. Obrigado pela visita!
